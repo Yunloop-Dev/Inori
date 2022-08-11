@@ -1,0 +1,25 @@
+{
+  "clientId": "985274993652944896",
+  "clientSecret": "T1l7u93TkaGhgQ4nSgbMQ5jCThRDset1",
+  "port": 53134,
+  "host": "localhost",
+  "basePath": "/",
+  "baseUrl": "/",
+  "apiBase": "/api/v1",
+  "info": {
+    "title": "My API",
+    "description": "This is a sample api",
+    "version": "1.0.0"
+  },
+  "front": {
+    "ip": "localhost",
+    "port":"53134"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:53134",
+      "protocol": "http",
+      "port": 5050
+    }
+  ]
+}
